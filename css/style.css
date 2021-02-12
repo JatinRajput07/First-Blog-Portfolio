@@ -1,0 +1,35 @@
+header{
+  background-image: url('../img/bg.jpg');
+  background-size: contain;
+  height: 103px;
+}
+
+.left-section img{
+  width: 100%;
+  height: 400px;
+ object-fit: cover;
+}
+
+.left-section .calender{
+  position: absolute;
+  width: 80px;
+  bottom: 20px;
+  right: 20px;
+}
+
+
+.right-section .search-box i{
+  position: absolute;
+  right: 25px;
+  top: 1px;
+  font-size: 20px;
+  line-height: 36px;
+}
+
+footer{
+  background:hsl(199deg 49% 22%);
+}
+
+footer hr{
+  background: red;
+}
