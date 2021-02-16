@@ -116,3 +116,8 @@ footer hr {
 }
 
 /* contect us page style */
+
+input[type="checkbox"]{
+  width: 30px;
+  height: 30px;
+}
